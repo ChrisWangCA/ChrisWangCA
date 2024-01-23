@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://chriswangca.github.io/](https://chriswangca.github.io/)
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
