@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
 <h3 align="center">A passionate software developer</h3>
 
+- 🏫 I'm currently learning **MS-Computer Science in Georgia Institute of Technology**
+
+- 📫 How to reach me **chriswang.csc@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
