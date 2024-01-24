@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
 <h3 align="center">A passionate software developer</h3>
 
-🏫 I'm currently learning **MS-Computer Science in Georgia Institute of Technology**
+🏫 I'm currently studying for a **MS in Computer Science at Georgia Institute of Technology**
 
 📫 How to reach me **chriswang.csc@gmail.com**
 
